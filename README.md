@@ -1,16 +1,16 @@
-# 🚀 StudyMate- Full Stack Web App
+#  StudyMate- Full Stack Web App
 
 StudyMate is a student-focused web application designed to provide all essential academic resources in one place — including notes, previous year questions (PYQs), lab manuals, and AI-powered learning tools like summarization, MCQ generation, and quiz battles.
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 🔗 https://studymate-v1.vercel.app
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Frontend (client)
 
@@ -29,38 +29,32 @@ StudyMate is a student-focused web application designed to provide all essential
 
 ---
 
-## ✨ Features
+## Features
 
-### 📚 Learning Resources
+###  Learning Resources
 
 * Browse study materials by course, semester, subject, and type
 * Access notes, PYQs, and lab manuals in one place
 
-### 🤖 AI-Powered Tools
+### AI-Powered Tools
 
 * Upload PDFs and analyze them using AI
 * Generate summaries and MCQs
 * Extract patterns from previous year questions
 
-### ⚔️ Quiz Battle
+###  Quiz Battle
 
 * Interactive quiz mode with instant feedback
 * AI-generated questions
 
-### 📦 Backend Capabilities
+###  Backend Capabilities
 
 * REST APIs for managing study materials
 * File upload and processing system
 * MongoDB-based data storage
-
-### 🎨 UI/UX
-
-* Clean and responsive interface
-* Minimal and user-friendly design
-
 ---
 
-## 📁 Project Structure
+##Project Structure
 
 ```
 studymate/
@@ -70,7 +64,7 @@ studymate/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -81,7 +75,7 @@ cd studymate
 
 ---
 
-## 🔹 Setup Frontend (client)
+##  Setup Frontend (client)
 
 ```bash
 cd client
@@ -101,7 +95,7 @@ npm run dev
 
 ---
 
-## 🔹 Setup Backend (server)
+##  Setup Backend (server)
 
 ```bash
 cd server
@@ -122,24 +116,16 @@ npm run dev
 
 ---
 
-## 🧠 Notes
+##  Notes
 
 * Make sure backend is running before using frontend
 * Replace all environment variables with your own credentials
-* Do not commit `.env` files
 
 ---
 
-## 📌 Future Improvements (optional but good look 👀)
-
-* Deploy backend with scalable storage (S3 / Cloudinary)
-* Add authentication system
-* Improve AI response optimization
-* Dockerize for easier deployment
-
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Chirag Pandya
 

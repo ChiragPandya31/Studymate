@@ -1,4 +1,4 @@
-# 🚀 StudyMate — Full Stack Web App
+# 🚀 StudyMate- Full Stack Web App
 
 StudyMate is a student-focused web application designed to provide all essential academic resources in one place — including notes, previous year questions (PYQs), lab manuals, and AI-powered learning tools like summarization, MCQ generation, and quiz battles.
 
